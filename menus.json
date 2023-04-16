@@ -1,0 +1,65 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Chilli burger with pepper relish",
+    "image": "burger.jpg",
+    "price": "80",
+    "size": "veg"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Perfect Lamb Satay Burger",
+    "image": "v1.jpg",
+    "price": "120",
+    "size": "veg"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Supreme Veggie Burger",
+    "image": "Burger3.jpg",
+    "price": "100",
+    "size": "veg"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Stuffed Bean Burger",
+    "image": "v5.jpg",
+    "price": "90",
+    "size": "veg"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Butter Burger",
+    "image": "v6.jpg",
+    "price": "100",
+    "size": "veg"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Cheese Burgar",
+    "image": "v8.jpg",
+    "price": "160",
+    "size": "veg"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Rajma Patty Burger",
+    "image": "v7.jpg",
+    "price": "150",
+    "size": "veg"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Crunchy Chicken Burger",
+    "image": "hero-berger.jpg",
+    "price": "180",
+    "size": "non-veg"
+  }]
