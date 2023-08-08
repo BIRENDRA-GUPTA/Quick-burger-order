@@ -16,7 +16,7 @@ const Emitter = require('events')
 //database connection
 async function connect(){
     try {
-        await mongoose.connect(process.env.MONGO_CONNECTION_URL,{useNewUrlParser:true,useUnifiedTopology: true});
+        await mongoose.connect(process.env.MONGO_CONNECTION_URL,{useNewUrlParser:true,useCreateIndex: true,useUnifiedTopology:true});
         console.log("connected to MongoDB");
     }
     catch {
